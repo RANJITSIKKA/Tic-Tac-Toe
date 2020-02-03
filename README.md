@@ -11,7 +11,7 @@ Online multiplayer tic tac toe game . Play with your friends now.
 </ul>`
 
 </br>
-![Home Page](https://firebasestorage.googleapis.com/v0/b/stora-5c1e1.appspot.com/o/github%2FScreenshot%20(35).png?alt=media&token=b9835a69-1353-47ef-a8e4-3670540f3fb0)
-</br>
+
+![App Preview Home screen](https://firebasestorage.googleapis.com/v0/b/stora-5c1e1.appspot.com/o/github%2FScreenshot%20(29).png?alt=media&token=85f17426-0e61-4826-853d-1bcd818659eb)
 
 
